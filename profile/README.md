@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/banner.png" alt="PINCH - One PINCH a day." width="100%" />
+<img src="/screenshots/banner.png" alt="PINCH - One PINCH a day." width="100%" />
 
 <br />
 <br />
@@ -45,7 +45,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/home.png" alt="PINCH home screen" />
+<img src="/screenshots/home.png" alt="PINCH home screen" />
 <br />
 <br />
 <strong>Home</strong>
@@ -53,7 +53,7 @@
 <sub>오늘의 HOT 토픽과 카테고리 흐름을 한 화면에서 확인합니다.</sub>
 </td>
 <td width="50%" align="center">
-<img src="screenshots/topic.png" alt="PINCH topic screen" />
+<img src="/screenshots/topic.png" alt="PINCH topic screen" />
 <br />
 <br />
 <strong>Today's PINCH</strong>
@@ -63,7 +63,7 @@
 </tr>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/archive.png" alt="PINCH archive screen" />
+<img src="/screenshots/archive.png" alt="PINCH archive screen" />
 <br />
 <br />
 <strong>Archive</strong>
@@ -71,7 +71,7 @@
 <sub>지난 토픽과 그날 살아남은 PINCH를 검색하고 탐색합니다.</sub>
 </td>
 <td width="50%" align="center">
-<img src="screenshots/ranking.png" alt="PINCH ranking screen" />
+<img src="/screenshots/ranking.png" alt="PINCH ranking screen" />
 <br />
 <br />
 <strong>Ranking</strong>
